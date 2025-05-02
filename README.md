@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChelsTheKat
-- 👀 I’m interested in practice my coding and improving my skills to be marketable.
+- 👀 I’m interested in practicing my coding skills and improving my skills to be marketable.
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love to crochet and I'm working on creating a crochet tutorial-based website!
